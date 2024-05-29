@@ -1,76 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:23:22.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CYlcE31RS3dR9IzVjm6D" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:48:39.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9y5uZh-uoqWwEzlwVP9Y" version="24.4.9" type="github">
   <diagram name="第 1 页" id="TstLex5_BNDvn4z_0ZPU">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PFm-jJKADHVvYn167UJx-1" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-1" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-5" value="&amp;nbsp;房间服务a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-5" value="&amp;nbsp;房间服务a" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-6" value="&amp;nbsp;房间服务b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-6" value="&amp;nbsp;房间服务b" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-7" value="&amp;nbsp;房间服务c" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-7" value="&amp;nbsp;房间服务c" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-8" value="&amp;nbsp;房间服务d" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-8" value="&amp;nbsp;房间服务d" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-10" value="房间分配需求：&lt;div&gt;为每个场景名分配房间&lt;/div&gt;&lt;div&gt;房间满100人要新分配房间&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-10" value="房间分配需求：&lt;div&gt;为每个场景名分配房间&lt;/div&gt;&lt;div&gt;房间满n人要新分配房间&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-13" value="100人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-13" value="n人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-14" value="15人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-14" value="15人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="85" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-23" value="选择漫游场景列表" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-23" value="选择漫游场景列表" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="300" y="130" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-26" value="上海大学 广场" style="text;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-26" value="上海大学 广场" style="text;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="305" y="160" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-27" value="上海大学 教学楼" style="text;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-27" value="上海大学 教学楼" style="text;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="305" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-28" value="上海大学  操场" style="text;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-28" value="上海大学  操场" style="text;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="304" y="260" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFm-jJKADHVvYn167UJx-26" target="PFm-jJKADHVvYn167UJx-5">
+        <mxCell id="PFm-jJKADHVvYn167UJx-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PFm-jJKADHVvYn167UJx-26" target="PFm-jJKADHVvYn167UJx-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="165" as="sourcePoint" />
             <mxPoint x="490" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PFm-jJKADHVvYn167UJx-26" target="PFm-jJKADHVvYn167UJx-6">
+        <mxCell id="PFm-jJKADHVvYn167UJx-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PFm-jJKADHVvYn167UJx-26" target="PFm-jJKADHVvYn167UJx-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="205" as="sourcePoint" />
             <mxPoint x="540" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFm-jJKADHVvYn167UJx-27" target="PFm-jJKADHVvYn167UJx-7">
+        <mxCell id="PFm-jJKADHVvYn167UJx-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PFm-jJKADHVvYn167UJx-27" target="PFm-jJKADHVvYn167UJx-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFm-jJKADHVvYn167UJx-28" target="PFm-jJKADHVvYn167UJx-8">
+        <mxCell id="PFm-jJKADHVvYn167UJx-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PFm-jJKADHVvYn167UJx-28" target="PFm-jJKADHVvYn167UJx-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-37" value="产品需求，从个人中心界面通过选择球体选择器进入不同漫游场景，场景中有传送门跳转到其他场景&lt;div&gt;场景中角色可以互相看到，最多互相看到100人&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-37" value="产品需求，从个人中心界面通过选择球体选择器进入不同漫游场景，场景中有传送门跳转到其他场景&lt;div&gt;场景中角色可以互相看到，最多互相看到n人&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-41" value="问题:&amp;nbsp;&lt;div&gt;目前使用nodejs技术栈构建房间服务，准备支撑到什么版本，需要满足多少同时在线?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-41" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="420" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
