@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:17:18.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="d6CX33j5nNT0cMgMBrNf" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:21:44.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XwJyMMvNZBv0owPkhFx8" version="24.4.9" type="github">
   <diagram name="第 1 页" id="TstLex5_BNDvn4z_0ZPU">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="PFm-jJKADHVvYn167UJx-37" value="产品需求，从个人中心界面通过选择球体选择器进入不同漫游场景，场景中有传送门跳转到其他场景&lt;div&gt;场景中角色可以互相看到，最多互相看到100人&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PFm-jJKADHVvYn167UJx-41" value="问题:&amp;nbsp;&lt;div&gt;目前使用nodejs技术栈构建房间服务，准备支撑到什么版本，需要满足多少同时在线&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
