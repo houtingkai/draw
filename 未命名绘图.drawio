@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:50:17.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8V31WH7ZDPkXhO2I2ucj" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:53:14.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2fI6CD43ou_zsH_26cjM" version="24.4.9" type="github">
   <diagram name="第 1 页" id="TstLex5_BNDvn4z_0ZPU">
     <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="PFm-jJKADHVvYn167UJx-8" value="&amp;nbsp;房间服务d" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-10" value="房间分配需求：&lt;div&gt;为每个场景名分配房间&lt;/div&gt;&lt;div&gt;房间满n人要新分配房间&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="PFm-jJKADHVvYn167UJx-10" value="房间分配需求：&lt;div&gt;为每个场景名分配房间&lt;/div&gt;&lt;div&gt;房间满n人要新分配房间&lt;br&gt;&lt;div&gt;n按场景名称可配置&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFm-jJKADHVvYn167UJx-13" value="n人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -70,10 +70,16 @@
         <mxCell id="PFm-jJKADHVvYn167UJx-37" value="产品需求，从个人中心界面通过选择球体选择器进入不同漫游场景，场景中有传送门跳转到其他场景&lt;div&gt;场景中角色可以互相看到，最多互相看到n人&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="50" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PFm-jJKADHVvYn167UJx-41" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="420" width="230" height="20" as="geometry" />
+        <mxCell id="PFm-jJKADHVvYn167UJx-41" value="2.0版本交互标准，单台服务器同时在线5000人~10000人，&lt;span style=&quot;background-color: initial;&quot;&gt;稳定可靠，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;压测证明&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="380" width="530" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rWebHVXZAMadMzJJ_86E-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWebHVXZAMadMzJJ_86E-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWebHVXZAMadMzJJ_86E-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
