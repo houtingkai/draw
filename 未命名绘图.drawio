@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:10:58.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="etRrUxgnL5SujXWRvQS_" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:11:13.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="E06G6bv3Ctri8AeQqsIy" version="24.4.9" type="github">
   <diagram name="第 1 页" id="TstLex5_BNDvn4z_0ZPU">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="630" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFm-jJKADHVvYn167UJx-10" value="房间分配需求：&lt;div&gt;为每个场景名分配房间&lt;/div&gt;&lt;div&gt;房间满100人要新分配房间&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="410" width="340" height="60" as="geometry" />
+          <mxGeometry x="40" y="310" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFm-jJKADHVvYn167UJx-13" value="100人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="40" width="60" height="30" as="geometry" />
